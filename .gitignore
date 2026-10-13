@@ -1,0 +1,21 @@
+# Imágenes y discos de los equipos virtuales
+*.qcow2
+*.img
+*.iso
+*.vmdk
+*.vdi
+*.ova
+*.ovf
+*.bin
+*.image
+
+# Proyectos GNS3: capturas de tráfico y archivos temporales
+*.pcap
+*.pcapng
+project-files/
+*.gns3.backup
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
